@@ -79,7 +79,7 @@ export default (props) => {
 							</b>
 						)
 					}
-					Welcome To Content Coast RP
+					Welcome To Hades RP
 				</span>
 				<span className={classes.splashTip}>
 					{`Loading Into Server `}
